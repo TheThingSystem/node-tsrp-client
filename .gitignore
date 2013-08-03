@@ -1,3 +1,16 @@
+# git config --global core.excludesfile ./.gitignore
+
+node_modules
+*.json
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
 lib-cov
 *.seed
 *.log
@@ -12,3 +25,7 @@ logs
 results
 
 npm-debug.log
+
+build/
+Debug
+Release

@@ -1,4 +1,4 @@
-node-strp-client
+node-tsrp-client
 ================
 
-Client classes for the Simple Thing Response Protocol
+Client classes for the Thing Sensor Report Protocol.
